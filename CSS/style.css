@@ -1,0 +1,29 @@
+h1{
+    font-size: 28px;
+    color:goldenrod;
+    font-family: 'Yomogi', cursive;
+}
+
+h2{
+    font-size: 25px;
+    color: crimson;
+    font-family: 'Uchen', serif;
+
+}
+
+h3{
+    font-size: 20px;
+    color:goldenrod;
+}
+
+li{
+    list-style-position:inside ;
+}
+
+img{
+    height: 250px;
+}
+
+p{
+    font-family: 'Rajdhani', sans-serif;
+}
