@@ -1,1 +1,1 @@
-# CSSilkproje
+# CSSilkproje kapsamında bir satış sayfası tasarlandı.
